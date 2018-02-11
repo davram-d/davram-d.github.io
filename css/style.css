@@ -460,6 +460,13 @@ p {
     float: left;
 }
 
+.reload > a {
+    display: block;
+    margin-top: -70px;
+    margin-left: 660px;
+    margin-bottom: 100px;
+}
+
 /* exclusive (promo) section (2 big picture) */
 
 .cat_promo {
